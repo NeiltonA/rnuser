@@ -1,39 +1,44 @@
 # rnuser
 Projeto cadastro de usuário e listagem de produtos - (React Native).
 
-- Clone do projeto
+- Clone do projeto:
 ```
 $ git clone < https://github.com/NeiltonA/rnuser.git >
 ```
 
+- Instalar as dependências do projeto:
 ```
 $ npm install ou yarn install
 ```
 
+- Start no projeto:
 ```
 $ expo start, npm start ou npx start
 ```
+![alt text](src/assets/startado.PNG)
 
-Tela Inicial:
+- Prévia do projeto:
+
+# Tela Inicial:
 
 ![alt text](src/assets/inicio.jpeg)
 
-Tela cadastro:
+# Tela cadastro:
 
 ![alt text](src/assets/cadastro.jpeg)
 
 
-Tela login:
+# Tela login:
 
 ![alt text](src/assets/login.jpeg)
 
-Tela listagem:
+# Tela listagem:
 
 ![alt text](src/assets/listagem.jpeg)
 
 
 
-Tela home:
+# Tela home:
 
 ![alt text](src/assets/home.jpeg)
 
