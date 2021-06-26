@@ -98,7 +98,7 @@ const ProductList = ({ navigation }) => {
         <View>
           <View style={estilos.rowContainer}>
             <View  style={estilos.textContainer}>
-              <Text style={estilos.price}>Nome: {user.name}</Text>
+              <Text style={estilos.price}>{user.name}</Text>
               <Text style={estilos.title}>Preço: {currencyFormat(user.price)}</Text>
               <Text style={estilos.title}>Quantidade: {user.amount}</Text>
               <Text style={estilos.title}>Fabricante: {user.factory.name}</Text>
